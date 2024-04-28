@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bbtmj51hynyv0"
-path="res://.godot/imported/BuildingAngled.png-42a6a886aa3c3895497bdc1bc40d0b86.ctex"
+uid="uid://d4k41txlj1hyt"
+path="res://.godot/imported/BuildingAngled2.png-833e85d2ebbef34005b614bb5f27f180.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Art Raw/BuildingAngled.png"
-dest_files=["res://.godot/imported/BuildingAngled.png-42a6a886aa3c3895497bdc1bc40d0b86.ctex"]
+source_file="res://assets/Art Raw/BuildingAngled2.png"
+dest_files=["res://.godot/imported/BuildingAngled2.png-833e85d2ebbef34005b614bb5f27f180.ctex"]
 
 [params]
 
