@@ -446,17 +446,18 @@ sources/7 = SubResource("TileSetAtlasSource_4eo3f")
 [node name="TesterLevel" type="Node2D"]
 
 [node name="StreeFloorMasterCanvas" type="Sprite2D" parent="."]
-position = Vector2(3164, 303)
-scale = Vector2(4, 4)
+position = Vector2(2357, 231)
+scale = Vector2(3, 3)
 texture = ExtResource("1_ruyb4")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 z_index = 10
 position = Vector2(631, 462)
+offset = Vector2(0, -149.3)
 script = ExtResource("2_ng1bt")
 
 [node name="TileMap" type="TileMap" parent="."]
-scale = Vector2(4, 4)
+scale = Vector2(3, 3)
 tile_set = SubResource("TileSet_ljlap")
 format = 2
 layer_0/name = "Sidewalk"
@@ -468,6 +469,6 @@ layer_1/tile_data = PackedInt32Array(-196609, 1, 0, -131073, 1, 1, -65537, 1, 2,
 
 [node name="Barricade" type="Sprite2D" parent="."]
 z_index = 4
-position = Vector2(3734, 239)
-scale = Vector2(4, 4)
+position = Vector2(2783, 174)
+scale = Vector2(3, 3)
 texture = ExtResource("11_su33u")
